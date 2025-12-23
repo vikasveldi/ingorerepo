@@ -46,4 +46,3 @@ sudo systemctl start tomcat
 sudo systemctl enable tomcat
 
 echo "Tomcat installation complete. Access it at http://localhost:8080"
-
